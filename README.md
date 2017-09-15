@@ -10,6 +10,6 @@
 - [x] [Exercise_10:Chapter 3 problem 3.31:Billiard ball on diverse table](https://github.com/yuyuwei/compuational_physics_2015301020155/blob/master/Exercise_10:Chapter%203%20problem%203.31:Billiard%20ball%20on%20diverse%20table)
 - [x] [Exercise_11:Chapter 4 problem 4.11:The percession of Mercury](https://github.com/yuyuwei/compuational_physics_2015301020155/blob/master/Exercise_11:Chapter%204%20problem%204.11:The%20percession%20of%20Mercury)
 - [x] [Exercise_12:Chapter 4 problem 4.18:The Kirkwood Gap](https://github.com/yuyuwei/compuational_physics_2015301020155/blob/master/Exercise_12:Chapter%204%20problem%204.18:The%20Kirkwood%20Gap)
-- [x] Exercise_13:Chapter 5 problem 5.7:The Jacobi method v.s. The SOR algorithm
+- [x] [Exercise_13:Chapter 5 problem 5.7:The Jacobi method v.s. The SOR algorithm](https://github.com/yuyuwei/compuational_physics_2015301020155/blob/master/Exercise_13:Chapter%205%20problem%205.7:The%20Jacobi%20method%20v.s.%20The%20SOR%20algorithm)
 - [x] Exercise_14:Chapter 6 problem 6.15:The realistic string problem
 - [x] Final Project:用轨道能量分析Kirkwood Gap的缝宽
