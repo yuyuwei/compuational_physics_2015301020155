@@ -2,7 +2,7 @@
 # Homework list
 - [x] [Exercise 03](https://github.com/yuyuwei/compuational_physics_2015301020155/blob/master/homework%203.py)
 - [x] [Exercise_04:1.1](https://github.com/yuyuwei/compuational_physics_2015301020155/blob/master/homework%204.py)
-- [x] [Exercise_05:Chapter 1 problem 1.6:Population growth](https://github.com/yuyuwei/compuational_physics_2015301020155/blob/master/Exercise_05:Chapter%201%20problem%201.6:Population%20growth)
+- [x] [Exercise_05:2.9](https://github.com/yuyuwei/compuational_physics_2015301020155/blob/master/homework%205.py)
 - [x] [Exercise_06:Chapter 2 problem 2.9&2.10:The cannon](https://github.com/yuyuwei/compuational_physics_2015301020155/blob/master/Exercise_06:Chapter%202%20problem%202.9%262.10:The%20cannon)
 - [x] [Exercise_07:Chapter 2 problem 2.19:The spin of baseball and Visual motion of baseball](https://github.com/yuyuwei/compuational_physics_2015301020155/blob/master/Exercise_07:Chapter%202%20problem%202.19:The%20spin%20of%20baseball%20and%20Visual%20motion%20of%20baseball)
 - [x] [Exercise_08:Chapter 3 problem 3.4:Non-linear oscillator](https://github.com/yuyuwei/compuational_physics_2015301020155/blob/master/Exercise_08:Chapter%203%20problem%203.4:Non-linear%20oscillator)
