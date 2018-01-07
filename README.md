@@ -1,5 +1,6 @@
 # compuational_physics_2015301020155
 # Homework list
+- [x] [Exercise 02](https://github.com/yuyuwei/compuational_physics_2015301020155/blob/master/Exercise_02)
 - [x] [Exercise 03](https://github.com/yuyuwei/compuational_physics_2015301020155/blob/master/homework%203.py)
 - [x] [Exercise_04:Problem 1.3](https://www.zybuluo.com/yuyuwei/note/1011242)
 - [x] [Exercise_05:Problem 2.9](https://www.zybuluo.com/yuyuwei/note/1011425)
