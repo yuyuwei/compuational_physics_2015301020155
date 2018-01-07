@@ -1,7 +1,7 @@
 # compuational_physics_2015301020155
 # Homework list
 - [x] [Exercise 03](https://github.com/yuyuwei/compuational_physics_2015301020155/blob/master/homework%203.py)
-- [x] [Exercise_04:Problem 1.1](https://github.com/yuyuwei/compuational_physics_2015301020155/blob/master/homework%204.py)
+- [x] [Exercise_04:Problem 1.3](https://www.zybuluo.com/yuyuwei/note/1011242)
 - [x] [Exercise_05:Problem 2.9](https://github.com/yuyuwei/compuational_physics_2015301020155/blob/master/homework%205.py)
 - [x] [Exercise_06:Problem 2.19](https://www.zybuluo.com/yuyuwei/note/922437)
 - [ ] [Exercise_07:Chapter 3 problem 3.16:Strange attractor](https://github.com/yuyuwei/compuational_physics_2015301020155/blob/master/Exercise_09:Chapter%203%20problem%203.16:Strange%20attractor)
