@@ -1,3 +1,4 @@
+图1代码
 import numpy as np
 import matplotlib.pyplot as plt  #to import matplotlib's package
 
