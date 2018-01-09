@@ -11,4 +11,4 @@
 - [ ] [Exercise 10:Problem 5.3](https://github.com/yuyuwei/compuational_physics_2015301020155/blob/master/Exercise_12:Chapter%204%20problem%204.18:The%20Kirkwood%20Gap)
 - [ ] [Exercise_11:Problem 6.6](https://github.com/yuyuwei/compuational_physics_2015301020155/blob/master/Exercise_13:Chapter%205%20problem%205.7:The%20Jacobi%20method%20v.s.%20The%20SOR%20algorithm)
 - [ ] [期中作业](https://github.com/yuyuwei/compuational_physics_2015301020155/blob/master/Exercise_14:Chapter%206%20problem%206.15:The%20realistic%20string%20problem)
-- [x] [期末作业](https://www.zybuluo.com/yuyuwei/note/1011468）
+- [x] [期末作业](https://www.zybuluo.com/yuyuwei/note/1011468)
