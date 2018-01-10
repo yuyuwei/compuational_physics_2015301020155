@@ -10,5 +10,5 @@
 - [x] [Exercise_09:Problem 4.16](https://www.zybuluo.com/yuyuwei/note/1014058)
 - [x] [Exercise 10:Problem 5.3](https://www.zybuluo.com/yuyuwei/note/1014059)
 - [x] [Exercise_11:Problem 6.6](https://www.zybuluo.com/yuyuwei/note/1014122)
-- [ ] [期中作业](https://github.com/yuyuwei/compuational_physics_2015301020155/blob/master/Exercise_14:Chapter%206%20problem%206.15:The%20realistic%20string%20problem)
+- [x] [期中作业](scratch.mit.edu)
 - [x] [期末作业](https://www.zybuluo.com/yuyuwei/note/1011468)
