@@ -10,5 +10,5 @@
 - [x] [Exercise_09:Problem 4.16](https://www.zybuluo.com/yuyuwei/note/1014058)
 - [x] [Exercise 10:Problem 5.3](https://www.zybuluo.com/yuyuwei/note/1014059)
 - [x] [Exercise_11:Problem 6.6](https://www.zybuluo.com/yuyuwei/note/1014122)
-- [x] [期中作业](scratch.mit.edu)
+- [x] [期中作业](https://scratch.mit.edu/users/yuyuwei/)
 - [x] [期末作业](https://www.zybuluo.com/yuyuwei/note/1011468)
